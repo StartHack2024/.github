@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+### Task 1
+
+Colab link: https://colab.research.google.com/drive/1xUi-gjI3hSLqNQruX1G94IzxBEMQbVD4?usp=sharing
+
+So far we have trained the AI model on non-augmented images from the default dataset using tensorflow.
+
+Here is a screenshot of prediction versus truth:
+
+![Evaluation ai best model](https://raw.githubusercontent.com/StartHack2024/.github/main/profile/evaluation_ai_best_model.png)
+
+Here is image of the evaluation towards the test-set:
+
+![Image of the evaluation towards the test-set](https://raw.githubusercontent.com/StartHack2024/.github/main/profile/prediction_vs_truth_n.png)
+
 ### Task 2
 
 Repository link: https://github.com/StartHack2024/part2-python

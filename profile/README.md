@@ -12,6 +12,13 @@ So far we have just experimented with different types of ways to visualize the d
 
 ### Task 3
 
-We have just finished the basic implementation and are now in the UI design phase.
+We have just finished the basic implementation using typescript + React + vite.
+
 Here is a screenshot of how the web-panel currently looks, using mapbox to display the earth map with geotiff layers added dynamically:
 ![Screenshot of web-panel for task 3](https://raw.githubusercontent.com/StartHack2024/.github/main/profile/task3.png)
+
+You can also zoom in on the map to see more details:
+
+![Screenshot of map-zoom function with details for task 3](https://raw.githubusercontent.com/StartHack2024/.github/main/profile/task3_map_zoom.png)
+
+We are now just about to start with UI design for the web-panel.

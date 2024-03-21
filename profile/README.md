@@ -4,7 +4,7 @@
 
 We have just finished the basic implementation and are now in the UI design phase.
 Here is a screenshot of how the web-panel currently looks:
-!(Screenshot of web-panel for task 3)[https://raw.githubusercontent.com/StartHack2024/.github/main/profile/task3.png]
+![Screenshot of web-panel for task 3](https://raw.githubusercontent.com/StartHack2024/.github/main/profile/task3.png)
 <!--
 
 **Here are some ideas to get you started:**

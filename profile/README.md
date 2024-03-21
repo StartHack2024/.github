@@ -2,7 +2,9 @@
 
 ### Task 2
 
-We tried using earth engine in a python notebook at https://github.com/StartHack2024/part2-python
+Repository link: https://github.com/StartHack2024/part2-python
+
+We tried using earth engine in a python notebook.
 
 So far we have just experimented with different types of ways to visualize the data, and also exporting the landmass data as csv files for use in the future:
 
@@ -11,6 +13,8 @@ So far we have just experimented with different types of ways to visualize the d
 
 
 ### Task 3
+
+Repository link: https://github.com/StartHack2024/website
 
 We have just finished the basic implementation using typescript + React + vite.
 

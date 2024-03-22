@@ -2,7 +2,7 @@
 
 ### Task 1
 
-Colab link: https://colab.research.google.com/drive/1xUi-gjI3hSLqNQruX1G94IzxBEMQbVD4?usp=sharing
+Colab link: [https://colab.research.google.com/drive/1xUi-gjI3hSLqNQruX1G94IzxBEMQbVD4?usp=sharing](https://colab.research.google.com/drive/1HBEh2PCIiuH47cf7cpYmLwiXkWj-s3Gi?usp=sharing)
 
 So far we have trained the AI model on non-augmented images from the default dataset using tensorflow.
 
